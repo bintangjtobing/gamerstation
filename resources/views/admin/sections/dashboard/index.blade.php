@@ -29,7 +29,7 @@
                             <div class="left">
                                 <h6 class="title">{{ __('Total Review Top Up') }}</h6>
                                 <div class="user-info">
-                                    <h2 class="user-count">${{ get_amount($total_review_topup_amount) }}</h2>
+                                    <h2 class="user-count">{{ get_default_currency_code() }} {{ get_amount($total_review_topup_amount) }}</h2>
                                 </div>
                                 <div class="user-badge">
                                     <span class="badge badge--warning">{{ __('Review Payment:') }}
@@ -50,7 +50,7 @@
                             <div class="left">
                                 <h6 class="title">{{ __('Total Pending Top Up') }}</h6>
                                 <div class="user-info">
-                                    <h2 class="user-count">${{ get_amount($total_pending_topup_amount) }}</h2>
+                                    <h2 class="user-count">{{ get_default_currency_code() }} {{ get_amount($total_pending_topup_amount) }}</h2>
                                 </div>
                                 <div class="user-badge">
                                     <span class="badge badge--warning">{{ __('Pending') }}:
@@ -71,7 +71,7 @@
                             <div class="left">
                                 <h6 class="title">{{ __('Total Settled Top Up') }}</h6>
                                 <div class="user-info">
-                                    <h2 class="user-count">${{ get_amount($total_settled_topup_amount) }}</h2>
+                                    <h2 class="user-count">{{ get_default_currency_code() }} {{ get_amount($total_settled_topup_amount) }}</h2>
                                 </div>
                                 <div class="user-badge">
                                     <span class="badge badge--warning">{{ __('Settled') }}:
@@ -92,7 +92,7 @@
                             <div class="left">
                                 <h6 class="title">{{ __('Total Complete Top Up') }}</h6>
                                 <div class="user-info">
-                                    <h2 class="user-count">${{ get_amount($total_complete_topup_amount) }}</h2>
+                                    <h2 class="user-count">{{ get_default_currency_code() }} {{ get_amount($total_complete_topup_amount) }}</h2>
                                 </div>
                                 <div class="user-badge">
                                     <span class="badge badge--warning">{{ __('Complete:') }}
@@ -115,7 +115,7 @@
                             <div class="left">
                                 <h6 class="title">{{ __('Add Money Balance') }}</h6>
                                 <div class="user-info">
-                                    <h2 class="user-count">${{ get_amount($total_addmoney) }}</h2>
+                                    <h2 class="user-count">{{ get_default_currency_code() }} {{ get_amount($total_addmoney) }}</h2>
                                 </div>
                                 <div class="user-badge">
                                     <span class="badge badge--info">{{ __('Success:') }}
