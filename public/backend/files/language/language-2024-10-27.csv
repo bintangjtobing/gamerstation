@@ -1,0 +1,875 @@
+Key,id
+Dashboard,Dasbor
+Default,Standar
+Setup Currency,Atur Mata Uang
+Campaigns,Kampanye
+Events,Acara
+Language created successfully!,Bahasa berhasil dibuat!
+Transactions & Log,Transaksi & Log
+Add Money Logs,Riwayat Tambah Uang
+Pending Logs,Log Tertunda
+Donation Logs,Log Donasi
+User Care,Layanan Pengguna
+Active Users,Pengguna Aktif
+Email Unverified,Email Belum Terverifikasi
+All Users,Semua Pengguna
+Email To Users,Kirim Email ke Pengguna
+Banned Users,Pengguna Diblokir
+Admin Care,Layanan Admin
+All Admin,Semua Admin
+Admin Role,Peran Admin
+Role Permission,Izin Peran
+Email To Admin,Kirim Email ke Admin
+Subscriber,Pelanggan
+Contact Messages,Pesan Kontak
+Settings,Pengaturan
+Web Settings,Pengaturan Web
+Basic Settings,Pengaturan Dasar
+Image Assets,Aset Gambar
+Setup SEO,Atur SEO
+App Settings,Pengaturan Aplikasi
+Splash Screen,Layar Pembuka
+Onboard Screen,Layar Panduan
+App URLs,URL Aplikasi
+Languages,Bahasa
+Verification Center,Pusat Verifikasi
+Setup Email,Atur Email
+Email Method,Metode Email
+About Section,Bagian Tentang
+Home Banner,Spanduk Utama
+Testimonial Section,Bagian Testimoni
+Video Section,Bagian Video
+Partner Section,Bagian Partner
+Footer Section,Bagian Footer
+Breadcrumb Section,Bagian Breadcrumb
+Gallery Section,Bagian Galeri
+Contact Section,Bagian Kontak
+Category Type,Jenis Kategori
+Login Section,Bagian Login
+Register Section,Bagian Daftar
+Setup Pages,Atur Halaman
+Topup,Isi Saldo
+GDPR Cookie,Cookie GDPR
+Server Info,Info Server
+Clear Cache,Hapus Cache
+Fees & Charges,Biaya & Ongkos
+Trade Logs,Riwayat Perdagangan
+Ongoing Logs,Log yang Sedang Berjalan
+Complete Logs,Log Selesai
+Close Request Pending,Permintaan Tutup Tertunda
+Manual Money Out,Penarikan Uang Manual
+Language Manager,Pengelola Bahasa
+Trade Interval Charge and Fees,Biaya dan Ongkos Interval Perdagangan
+Home,Beranda
+Call Us,Hubungi Kami
+Need Help? Contact our,Butuh Bantuan? Hubungi tim
+support & tell us about your query.,dukungan & ceritakan masalahmu.
+Feedback,Umpan Balik
+Contributors,Kontributor
+Tags,Tag
+Recent Posts,Postingan Terbaru
+EMAIL ADDRESS,ALAMAT EMAIL
+SCHEDULE,JADWAL
+Setup Top Up Game,Atur Isi Ulang Game
+Setup Web Content,Atur Konten Web
+Setup Section,Atur Bagian
+Header Slider,Slider Header
+Services,Layanan
+Donetion,Donasi
+About,Tentang
+Why Choose,Mengapa Memilih
+Testimonial,Testimoni
+Footer,Footer
+FAQ,Tanya Jawab
+Category,Kategori
+Blog,Blog
+Payment Methods,Metode Pembayaran
+Automatic,Otomatis
+Bonus,Bonus
+Total Review Top Up,Total Ulasan Isi Saldo
+Total Pending Top Up,Total Isi Saldo Tertunda
+Total Settled Top Up,Total Isi Saldo Selesai
+Total Complete Top Up,Total Isi Saldo Selesai
+Complete:,Selesai:
+Add Money Balance,Tambah Saldo
+Success:,Berhasil:
+User Active Tickets,Tiket Aktif Pengguna
+Pending,Tertunda
+Solved,Selesai
+Total Users,Total Pengguna
+Active,Aktif
+Unverified,Belum Terverifikasi
+Monthly Add Money Chart,Grafik Tambah Uang Bulanan
+Monthly Top Up Chart,Grafik Isi Saldo Bulanan
+User Analytics,Analitik Pengguna
+Latest Add Money,Tambahan Uang Terbaru
+Time,Waktu
+Title,Judul
+Create Date,Tanggal Buat
+Action,Aksi
+Top Up Create,Buat Isi Saldo
+On Hold,Tertunda
+Top Up Details for,Detail Isi Saldo untuk
+Progress of Top Up Transactions,Progres Transaksi Isi Saldo
+Payable,Dibayarkan
+Recharge,Isi Ulang
+Charge,Biaya
+Amount,Jumlah
+Method,Metode
+Welcome To,Selamat Datang di
+No data found!,Data tidak ditemukan!
+Full Name,Nama Lengkap
+Username,Nama Pengguna
+Phone,Telepon
+Role,Peran
+Site Base Color,Warna Dasar Situs
+Top Up Game,Isi Ulang Game
+Add Top Up,Tambah Isi Saldo
+Create,Buat
+Profile Image,Gambar Profil
+Cover Image,Gambar Sampul
+Recharge Amount,Jumlah Isi Ulang
+Price,Harga
+Download App,Unduh Aplikasi
+Top Up Edit,Edit Isi Saldo
+Type,Jenis
+Add,Tambah
+Review Payment Logs,Ulasan Log Pembayaran
+Confirm Payment Logs,Konfirmasi Log Pembayaran
+Delayed Logs,Log Tertunda
+All Logs,Semua Log
+Login Information,Informasi Login
+Manual,Manual
+Contact,Kontak
+Notification,Notifikasi
+Review Logs,Ulasan Log
+Confirm Logs,Konfirmasi Log
+On Hold Logs,Log Tertunda
+Settled Logs,Log Selesai
+Completed Logs,Log Selesai
+Canceled Logs,Log Dibatalkan
+Failed Logs,Log Gagal
+Refunded Logs,Log Refund
+Dalayed Logs,Log Ditunda
+OTP Expiration,Kadaluarsa OTP
+Timezone,Zona Waktu
+Activation Settings,Pengaturan Aktivasi
+Extensions,Ekstensi
+Please input your email and password and login to your account to get access to your dashboard.,Masukkan email dan password Anda
+Don't Have An Account?,dan login ke akun Anda
+Register Now,untuk akses dasbor Anda.
+Register Information,Belum Punya Akun?
+Please input your details and register to your account to get access to your dashboard.,Daftar Sekarang
+Privacy Policy,Informasi Pendaftaran
+I have agreed with,Masukkan detail Anda
+Game Topup,dan daftar ke akun Anda
+Add Money,untuk akses dasbor Anda.
+Transaction,Kebijakan Privasi
+Purchase Logs,Saya setuju dengan
+Help Center,Isi Ulang Game
+How can we help you?,Tambah Uang
+Get Support,Transaksi
+Overview,Log Pembelian
+Balance,Pusat Bantuan
+Total Top Up,Bagaimana kami bisa membantu Anda?
+Total Transaction,Dapatkan Bantuan
+Add Money Chart,Gambaran Umum
+Top Up Games Chart,Saldo
+Transaction Log,Total Isi Saldo
+View More,Total Transaksi
+Profile,Grafik Tambah Uang
+Profile Settings,Pengaturan Profil
+Delete,Hapus
+Country,Negara
+Change,Ubah
+Are you sure to delete,Yakin ingin menghapus
+Delete Account,Hapus Akun
+Close,Tutup
+"again and like your account deleted, we can take card of this for you. Keep in mind you will not be able to reactivate your account or retrieve any of the content or information you have added. If you would still like your account deleted, click “Delete Account”.?","Jika ingin akun kamu dihapus, kami bisa urus untukmu. Ingat, kamu nggak bisa aktifkan lagi akunmu atau ambil kembali data yang sudah ditambahkan. Jika tetap ingin hapus akun, klik ""Hapus Akun""."
+Update,Perbarui
+Top Up,Isi Saldo
+Support Tickets,Tiket Bantuan
+Add New,Tambah Baru
+Ticket ID,ID Tiket
+Email,Email
+Message,Pesan
+Last Reply,Balasan Terakhir
+Transactions,Transaksi
+Top Up Balance via,Isi Saldo Lewat
+Time & Date,Tanggal & Waktu
+Transaction ID,ID Transaksi
+Exchange Rate,Kurs
+Fees & Charge,Biaya & Ongkos
+Total Amount,Jumlah Total
+Two Factor Authenticator,Autentikasi Dua Faktor
+Disable,Nonaktifkan
+Enable,Aktifkan
+Login/Register,Login/Daftar
+Please,Silakan
+Your Account,Akunmu
+Add Money Summary,Ringkasan Tambah Uang
+Entered Amount,Jumlah yang Dimasukkan
+Total Fees,Total Biaya
+Charges,Ongkos
+Will Get,Akan Dapat
+Total Payable Amount,Jumlah yang Harus Dibayar
+Confirm,Konfirmasi
+Payment Gateway,Gerbang Pembayaran
+Available Balance,Saldo Tersedia
+Add Balance via,Tambah Saldo Lewat
+Are You Sure To,Yakin untuk
+Logout,Keluar
+Add New Ticket,Tambah Tiket Baru
+Name,Nama
+Subject,Subjek
+Image,Gambar
+Transactions & Logs,Transaksi & Log
+Password,Kata Sandi
+Reset,Atur Ulang
+Username OR Email Address,Nama Pengguna atau Alamat Email
+Send,Kirim
+Enter your account email address or username,Masukkan email atau nama pengguna akunmu
+Reset Password,Atur Ulang Kata Sandi
+Login,Masuk
+Forgot Password?,Lupa Kata Sandi?
+Enter your email and we'll send you a otp to reset your password.,"Masukkan email kamu, nanti kami kirim OTP untuk reset password."
+credentials,kredensial
+Already Have An Account?,Sudah Punya Akun?
+You can resend the code after,Kamu bisa kirim ulang kode setelah
+Submit,Kirim
+Please enter the code,Masukkan kode
+We sent a 6 digit code on,Kami mengirim kode 6 digit ke
+Authenticator App,Aplikasi Autentikasi
+Transaction Logs,Log Transaksi
+First Name,Nama Depan
+Last Name,Nama Belakang
+Address,Alamat
+City,Kota
+State,Provinsi
+Zip Code,Kode Pos
+Change Password,Ubah Kata Sandi
+Current Password,Kata Sandi Saat Ini
+New Password,Kata Sandi Baru
+Confirm Password,Konfirmasi Kata Sandi
+Automatic Add Money,Tambah Uang Otomatis
+Gateway,Gerbang Pembayaran
+Supported Currency,Mata Uang yang Didukung
+Enabled Currency,Mata Uang yang Diaktifkan
+Status,Status
+Subscribers,Pelanggan
+Send Mail,Kirim Email
+Email To Subscribers,Email ke Pelanggan
+Details,Detail
+Contact Message,Pesan Kontak
+Contacts,Kontak
+Add Automatic Gateway (Add Money),Tambah Gerbang Otomatis (Tambah Uang)
+Gateway Title,Judul Gerbang Pembayaran
+Supported Currencies,Mata Uang yang Didukung
+Genarate Fields,Hasilkan Kolom
+Instruction,Petunjuk
+Gateway Image,Gambar Gerbang Pembayaran
+Manual Add Money,Tambah Uang Manual
+Gateway Name,Nama Gerbang Pembayaran
+Currency Code,Kode Mata Uang
+Currency Symbol,Simbol Mata Uang
+Automatic Add Money Edit,Edit Tambah Uang Otomatis
+Update Gateway,Perbarui Gerbang Pembayaran
+Amount Limit,Batas Jumlah
+Contact List,Daftar Kontak
+Subscriber List,Daftar Pelanggan
+Useful Links,Tautan Berguna
+Interface Panel,Panel Antarmuka
+Top Up Logs,Log Isi Saldo
+Newsletter,Buletin
+Total Transactions,Total Transaksi
+Available Country,Negara Tersedia
+No data found!,Data tidak ditemukan!
+Total Top Up,Total Isi Saldo
+AddMoney Chart,Grafik Tambah Uang
+Google Authenticator,Google Autentikator
+Download Google Authenticator App,Unduh Aplikasi Google Autentikator
+Subscribe,Berlangganan
+Categories,Kategori
+Billing Details,Detail Tagihan
+Your Order,Pesananmu
+Pay Now,Bayar Sekarang
+Summary,Ringkasan
+Buy Game Credit,Beli Kredit Game
+app,aplikasi
+Closed Logs,Log Ditutup
+Marketplace Logs,Log Marketplace
+Money Out,Uang Keluar
+Push Notification,Notifikasi Dorong
+Setup Notification,Atur Notifikasi
+Send Notification,Kirim Notifikasi
+About Us,Tentang Kami
+Faqs,Tanya Jawab
+Web Journal,Jurnal Web
+Contact Us,Hubungi Kami
+Fee Calculator,Kalkulator Biaya
+Watch Video,Tonton Video
+Years Of Ecperience,Tahun Pengalaman
+Login Now,Masuk Sekarang
+TRX ID,ID TRX
+If you do not think you will use,Jika kamu merasa tidak akan menggunakan
+please Fill Out The Field,isi kolom ini
+ngn,NGN
+player Id Field,Kolom ID Pemain
+guest User,Pengguna Tamu
+your Money Has Been,Uangmu Telah
+you Need To Sign In First,Kamu Perlu Masuk Dulu
+you Are Signed In Already,Kamu Sudah Masuk
+evidence Note,Catatan Bukti
+paypal,paypal
+change Theme,Ubah Tema
+okay,Oke
+Failed,Gagal
+Canceled,Dibatalkan
+Rate,Nilai Tukar
+verification Code,Kode Verifikasi
+ops,oops
+enter The Two Fa Verification,masukkan Verifikasi Dua Faktor
+your Money Deposit Success,Setoran Uangmu Berhasil
+tab And Hold,ketuk dan tahan
+card Number,Nomor Kartu
+Completed,Selesai
+two Fa Disabled,Verifikasi Dua Faktor Dinonaktifkan
+two Fa Enabled,Verifikasi Dua Faktor Diaktifkan
+confirm Payment,Konfirmasi Pembayaran
+stripe,stripe
+card Holder,Pemegang Kartu
+payment Successful,Pembayaran Berhasil
+valid Thru,Berlaku Sampai
+card Added Successfully,Kartu Berhasil Ditambahkan
+use Your Card To Make Payments,Gunakan Kartumu untuk Membayar
+buy Now,Beli Sekarang
+select Payment Gateway,Pilih Gerbang Pembayaran
+two FA Msg,Pesan Verifikasi Dua Faktor
+total Transfer,Total Transfer
+enter State,Masukkan Provinsi
+enter First Name,Masukkan Nama Depan
+continues,lanjut
+user Id,ID Pengguna
+enter City,Masukkan Kota
+enter Zip Code,Masukkan Kode Pos
+enter Address,Masukkan Alamat
+enter Last Name,Masukkan Nama Belakang
+enter Phone Number,Masukkan Nomor Telepon
+update Profile,Perbarui Profil
+your Product Has Been Purchased Successfully,Produkmu Berhasil Dibeli
+enter User ID,Masukkan ID Pengguna
+buy Mc Credit,Beli Kredit Mc
+accept Privacy Policy,Terima Kebijakan Privasi
+sign In Now,Masuk Sekarang
+select Recharge,Pilih Isi Ulang
+sign In With Google,Masuk dengan Google
+sign Up,Daftar
+enter Player ID,Masukkan ID Pemain
+purchasing Details,Detail Pembelian
+es,es
+search Here,Cari di Sini
+you Will Get,Kamu Akan Dapat
+amount Information,Info Jumlah
+limit,Batas
+proceed,Lanjutkan
+view All,Lihat Semua
+adventureAndFps,petualanganDanFPS
+search,Cari
+steamAndXbox,steamDanXbox
+ghost Flok,ghost Flok
+explore,Jelajahi
+top Up Games,Isi Saldo Game
+go To Dashboard,Ke Dashboard
+resend Otp,Kirim Ulang OTP
+enter Password,Masukkan Kata Sandi
+enter Old Password,Masukkan Kata Sandi Lama
+enter New Password,Masukkan Kata Sandi Baru
+enter Confirm Password,Masukkan Konfirmasi Kata Sandi
+enter Name,Masukkan Nama
+sign Up For Use,Daftar untuk Penggunaan
+enter Email,Masukkan Email
+verified Successfully,Berhasil Diverifikasi
+password Verified Successfully,Kata Sandi Berhasil Diverifikasi
+verify,Verifikasi
+forget Password,Lupa Kata Sandi
+preview,Pratinjau
+get Started,Mulai
+enter The OTP Code Sent To,Masukkan Kode OTP yang Dikirim ke
+oTP Verification,Verifikasi OTP
+email Verification,Verifikasi Email
+resend,Kirim Ulang
+enter,Masuk
+reset Your Password,Atur Ulang Kata Sandi Anda
+congratulations,Selamat
+create Account,Buat Akun
+transfer,Transfer
+exchange,Tukar
+request,Permintaan
+recent Transaction,Transaksi Terbaru
+my Invoice,Faktur Saya
+my Voucher,Voucher Saya
+sign Out,Keluar
+preview Screen,Layar Pratinjau
+total Fees And Charges,Total Biaya dan Ongkos
+total Payable,Total yang Harus Dibayar
+money Exchange,Tukar Uang
+from,Dari
+to,Ke
+request Money,Minta Uang
+remarks,Catatan
+optional,Opsional
+share Request Money,Bagikan Permintaan Uang
+share,Bagikan
+money Transfer,Transfer Uang
+receiver,Penerima
+forgot,Lupa
+mobile Number,Nomor HP
+paid,Dibayar
+sent,Terkirim
+invoice Number,Nomor Faktur
+invoice Date,Tanggal Faktur
+currency,Mata Uang
+pick Goods,Ambil Barang
+trick Goods,Kirim Barang
+total Bill,Total Tagihan
+create Invoice,Buat Faktur
+invoice To,Faktur Ke
+billing Address,Alamat Tagihan
+notes,Catatan
+item Details,Detail Item
+client Name,Nama Klien
+item Name,Nama Item
+voucher,Voucher
+redeem,Tukarkan
+used,Sudah Dipakai
+not Used,Belum Dipakai
+Code,Kode
+create Voucher,Buat Voucher
+confirm Redeem,Konfirmasi Penukaran
+redeem Code,Kode Penukaran
+money Out Log,Log Uang Keluar
+exchange Log,Log Penukaran
+request Log,Log Permintaan
+back To Home,Kembali ke Beranda
+enable 2fa Security,Aktifkan Keamanan 2FA
+send Verification Code,Kirim Kode Verifikasi
+old Password,Kata Sandi Lama
+individual,Individu
+business,Bisnis
+middle Name,Nama Tengah
+company Name,Nama Perusahaan
+gender,Jenis Kelamin
+date Of Birth,Tanggal Lahir
+nationality,Kebangsaan
+my Receipt,Resi Saya
+total Exchanged Amount,Jumlah Tukar Total
+converted Amount,Jumlah yang Dikonversi
+requested Amount,Jumlah yang Diminta
+step Up And Play On,Tingkatkan dan Mainkan
+sign In Msg,Pesan Masuk
+continue As Guest,Lanjutkan sebagai Tamu
+back To Sign In,Kembali ke Masuk
+please Follow The Limit,Silakan Ikuti Batasnya
+image Path Required,Jalur Gambar Diperlukan
+upload Image,Unggah Gambar
+sign In,Masuk
+sign Out Msg,Pesan Keluar
+Read More,Baca Selengkapnya
+Search For Top Up,Cari Isi Saldo
+"Ex: Transaction, Add Money","Contoh: Transaksi, Tambah Uang"
+Panding,Menunggu
+Review,Tinjau
+Settled,Selesai
+Phone Number,Nomor Telepon
+Total,Total
+State / Province / Region,Negara / Provinsi / Wilayah
+Zip / Postal Code,Kode Pos
+Add Support Ticket,Tambah Tiket Bantuan
+Enter Amount,Masukkan Jumlah
+Description,Deskripsi
+Attachments,Lampiran
+Support Details,Detail Bantuan
+Mark as Solved,Tandai sebagai Selesai
+Support ticket created successfully!,Tiket bantuan berhasil dibuat!
+Oops! Faild to upload attachment. Please try again.,"Ups! Gagal unggah lampiran. Coba lagi, ya!"
+Something went worng! Please try again.,"Ada yang salah! Coba lagi, ya!"
+Oops! Invalid Payment Gateway,Ups! Gerbang Pembayaran Tidak Valid
+Request server successfully,Permintaan ke server berhasil
+Please increase your amount,Silakan tambahkan jumlah Anda
+Please follow the transaction limit,Silakan ikuti batas transaksi
+Transaction faild. Record didn't saved properly. Please try again.,Transaksi gagal. Data tidak tersimpan dengan benar. Coba lagi.
+Topup Successfully,Isi Saldo Berhasil
+Successfully Added Money,Uang Berhasil Ditambahkan
+Transaction failed,Transaksi gagal
+Transaction Failed. The record was not saved properly. Please try again.,Transaksi gagal. Data tidak tersimpan dengan benar. Coba lagi.
+Payment Failed,Pembayaran Gagal
+Something Is Wrong,Ada yang salah
+Account successfully verified,Akun berhasil diverifikasi
+Session expired. Please try again,"Sesi berakhir. Coba lagi, ya"
+Mail Resend Success!,Email Berhasil Dikirim Ulang!
+Your wallet not found,Dompet kamu tidak ditemukan
+Something was wrong!,Ada yang salah!
+Profile successfully updated!,Profil berhasil diperbarui!
+Password successfully updated!,Kata sandi berhasil diperbarui!
+Security Setting Updated Successfully!,Pengaturan Keamanan Berhasil Diperbarui!
+Profile Information Updated Successfully!,Informasi Profil Berhasil Diperbarui!
+Password Changed successfully login again!,"Kata sandi berhasil diubah, login lagi, ya!"
+New password & confirm password is not same!,Kata sandi baru dan konfirmasi tidak cocok!
+Password not updated!,Kata sandi tidak diperbarui!
+This support ticket is closed.,Tiket bantuan ini sudah ditutup.
+SMS Sending faild! Please try again.,"Gagal mengirim SMS! Coba lagi, ya!"
+Registration successfully.,Pendaftaran berhasil.
+Code not found,Kode tidak ditemukan
+Email not found,Email tidak ditemukan
+Invalid Request!,Permintaan tidak valid!
+Payment gateway currency is invalid!,Mata uang gerbang pembayaran tidak valid!
+Top up successfully,Isi saldo berhasil
+Add Money Information!,Informasi Tambah Uang!
+Gateway Information is not available. Please provide payment gateway currency alias,Informasi Gerbang Pembayaran tidak tersedia. Mohon tambahkan mata uang gerbang pembayaran
+User wallet not found!,Dompet pengguna tidak ditemukan!
+Add Money Inserted Successfully,Uang Berhasil Ditambahkan
+"Payment successful, please go back your app","Pembayaran berhasil, silakan kembali ke aplikasi"
+Payment Cancelled,Pembayaran Dibatalkan
+Added Money Failed,Tambah Uang Gagal
+Added Money Canceled,Tambah Uang Dibatalkan
+Data fetched successfully,Data berhasil diambil
+Language Data Fetch Successfully!,Data Bahasa Berhasil Diambil!
+Dashboard Information,Informasi Dasbor
+User Profile,Profil Pengguna
+Something went wrong! Please try again.,"Ada yang salah! Coba lagi, ya!"
+Password updated successfully!,Kata sandi berhasil diperbarui!
+Account Delete successfully!,Akun berhasil dihapus!
+Data Fetch Successfully,Data Berhasil Diambil
+Google 2FA Updated Successfully!,Google 2FA Berhasil Diperbarui!
+Your secret key not stored properly. Please contact with system administrator,Kunci rahasiamu tidak tersimpan dengan benar. Hubungi admin sistem
+Google 2FA Verified Successfully,Google 2FA Berhasil Diverifikasi
+Faild to login. Please try again,"Gagal masuk. Coba lagi, ya!"
+Top Up List!,Daftar Isi Saldo!
+Top Up Details!,Detail Isi Saldo!
+Purchase Details!,Detail Pembelian!
+Top Up Inserted Successfully,Isi Saldo Berhasil Ditambahkan
+Top Up transaction logs,Log Transaksi Isi Saldo
+Insufficient Balance,Saldo Tidak Cukup
+Google Authenticator is a product based authenticator by Google that executes two-venture confirmation administrations for verifying clients of any programming applications.,Google Authenticator adalah produk autentikasi dari Google yang menyediakan verifikasi dua langkah untuk mengamankan pengguna aplikasi.
+2fa Security,Keamanan 2FA
+Your Wallet,Dompet Kamu
+balance has been added,saldo telah ditambahkan
+Hole,Lubang
+Pending Ticket,Tiket Tertunda
+Active Ticket,Tiket Aktif
+Solved Ticket,Tiket Selesai
+All Ticket,Semua Tiket
+No new notification found!,Tidak ada notifikasi baru!
+View Users,Lihat Pengguna
+Name | Code,Code
+Symbol,Simbol
+Edit Currency,Edit Mata Uang
+Country Flag,Bendera Negara
+Admin Panel,Panel Admin
+Charge Updated Successfully!,Biaya Berhasil Diperbarui!
+Transaction charge not found!,Biaya transaksi tidak ditemukan!
+Game Top Up Charges,Biaya Isi Saldo Game
+Fixed Charge,Biaya Tetap
+Percent Charge,Biaya Persentase
+TRX,TRX
+Top Up Coin,Koin Isi Saldo
+Add Money request send to admin successfully,Permintaan Tambah Uang berhasil dikirim ke admin
+Top up request send to admin successfully,Permintaan Isi Saldo berhasil dikirim ke admin
+Top Up Successful,Isi Saldo Berhasil
+Add Money Successful,Tambah Uang Berhasil
+"Sorry, your payment information is invalid","Maaf, info pembayaran kamu tidak valid"
+Review Payment,Tinjau Pembayaran
+Delayed,Ditunda
+Rejected,Ditolak
+Refunded,Refund
+Add Money Details,Detail Tambah Uang
+Add Money Details for,Detail Tambah Uang untuk
+Progress of Add Money Transactions,Progres Transaksi Tambah Uang
+In Progress,Sedang Berjalan
+Under Review,Sedang Ditinjau
+Enter a title,Masukkan judul
+Enter a Description,Masukkan Deskripsi
+Enter a Apple Store Game Link,Masukkan Tautan Game Apple Store
+Enter a Google Store Game Link,Masukkan Tautan Game Google Store
+User Details,Detail Pengguna
+Current Balance,Saldo Saat Ini
+Total Add Money,Total Tambah Uang
+User Overview,Gambaran Pengguna
+Add/Subtract Balance,Tambah/Kurangi Saldo
+Login Logs,Log Masuk
+Send Email,Kirim Email
+Login as Member,Masuk sebagai Anggota
+Email Logs,Log Email
+Information of User,Informasi Pengguna
+Write Here...,Tulis di sini...
+2FA Verification,Verifikasi 2FA
+Verified,Terverifikasi
+User Status,Status Pengguna
+Zip/Postal,Kode Pos
+Banned,Diblokir
+Email successfully sended,Email berhasil dikirim
+SL,SL
+IP,IP
+MAC,MAC
+Location,Lokasi
+Browser | OS,Browser | OS
+Login at,Masuk di
+USER,PENGGUNA
+Mail Sender(Method),Pengirim Email (Metode)
+User Email Logs,Log Email Pengguna
+User KYC information is rejected,Informasi KYC Pengguna ditolak
+Admin Profile,Profil Admin
+Select State,Pilih Provinsi
+Select City,Pilih Kota
+Save & Change,Simpan & Ubah
+Add Admin,Tambah Admin
+Generate,Hasilkan
+Select Role,Pilih Peran
+Admin Profile Image,Gambar Profil Admin
+Edit Admin,Edit Admin
+SL NO,Nomor SL
+Role Name,Nama Peran
+Asign Admin,Tetapkan Admin
+All Admin Roles,Semua Peran Admin
+Sub Title,Sub Judul
+Cancel,Batal
+App Version,Versi Aplikasi
+Android App URL,URL Aplikasi Android
+iOS App URL,URL Aplikasi iOS
+Category Name,Nama Kategori
+Created Time,Waktu Dibuat
+Type Here...,Ketik di Sini...
+Google Store,Google Store
+Apple Store,Apple Store
+Feature Image,Gambar Fitur
+Background Image,Gambar Latar Belakang
+Add New Permission,Tambah Izin Baru
+Choose One,Pilih Salah Satu
+Assign Permission Page/Task,Tetapkan Izin Halaman/Tugas
+Permission Name,Nama Izin
+Edit Permission,Edit Izin
+Add New Role,Tambah Peran Baru
+Edit Role,Edit Peran
+Add New Category,Tambah Kategori Baru
+Edit Category,Edit Kategori
+Select Country,Pilih Negara
+Edit Screen,Edit Layar
+Edit Coin,Edit Koin
+Quantity,Jumlah
+Update Extension,Perbarui Ekstensi
+Explain Rejection Reason,Jelaskan Alasan Penolakan
+Rejejct KYC,Tolak KYC
+Send Test Mail,Kirim Email Uji
+Global Setting for,Pengaturan Global untuk
+in bellow,di bawah
+Minimum,Minimum
+Maximum,Maksimum
+Percent,Persentase
+Total Supported Currency,Total Mata Uang yang Didukung
+Fixed,Tetap
+ex: Paypal,contoh: Paypal
+ex: USD,contoh: USD
+ex: $,contoh: $
+Collect Data,Kumpulkan Data
+Field Name,Nama Kolom
+Field Types,Jenis Kolom
+Input Text,Teks Input
+File,Berkas
+Textarea,Area Teks
+Field Necessity,Kebutuhan Kolom
+Required,Wajib
+Add Language,Tambah Bahasa
+Language Name,Nama Bahasa
+Language Code,Kode Bahasa
+Direction,Arah
+LTR,LTR (Kiri ke Kanan)
+RTL,RTL (Kanan ke Kiri)
+Edit Language,Edit Bahasa
+Select Language,Pilih Bahasa
+Language File,Berkas Bahasa
+Add About Item,Tambah Item Tentang
+Add Blog,Tambah Blog
+Blog Category,Kategori Blog
+Add Solution,Tambah Solusi
+Add Service,Tambah Layanan
+Social Icon,Ikon Sosial
+Link,Tautan
+Add Header Floting,Tambah Header Mengambang
+Left Button Text,Teks Tombol Kiri
+Left Button Link,Tautan Tombol Kiri
+Right Button Text,Teks Tombol Kanan
+Right Button Link,Tautan Tombol Kanan
+Add Step,Tambah Langkah
+Step Number,Nomor Langkah
+Rating,Peringkat
+Add Coin,Tambah Koin
+Both,Keduanya
+Sender,Pengirim
+"This ticket is solved, you can not send message right now.","Tiket ini sudah selesai, kamu tidak bisa kirim pesan sekarang."
+Pending Tickets,Tiket Tertunda
+Active Tickets,Tiket Aktif
+Solved Tickets,Tiket Selesai
+All Tickets,Semua Tiket
+Coin,Koin
+Information of Logs,Informasi Log
+Approved Confirmation,Konfirmasi Disetujui
+Are you sure to approved this request?,Yakin ingin menyetujui permintaan ini?
+Rejection Confirmation,Konfirmasi Penolakan
+Policy Link,Tautan Kebijakan
+Import,Impor
+Gateway Environment,Lingkungan Gerbang
+All,Semua
+Date,Tanggal
+After Charge,Setelah Biaya
+Status updated successfully,Status berhasil diperbarui
+Player ID,ID Pemain
+All Permissions,Semua Izin
+Permission Group,Grup Izin
+The message field is required.,Kolom pesan wajib diisi.
+Version,Versi
+Site Name,Nama Situs
+Site Title,Judul Situs
+User Registration,Pendaftaran Pengguna
+Secure Password,Kata Sandi Aman
+Agree Policy,Setuju Kebijakan
+Force SSL,Paksa SSL
+Email Notification,Notifikasi Email
+Activated,Diaktifkan
+Deactivated,Dinonaktifkan
+Basic settings status updated successfully!,Status pengaturan dasar berhasil diperbarui!
+Logo (Light Version),Logo (Versi Terang)
+Logo (Dark Version),Logo (Versi Gelap)
+Favicon (Light Version),Favicon (Versi Terang)
+Favicon (Dark Version),Favicon (Versi Gelap)
+No changes to update.,Tidak ada perubahan untuk diperbarui.
+Image assets updated successfully!.,Aset gambar berhasil diperbarui!
+Search Engine Optimization (SEO),Optimisasi Mesin Pencari (SEO)
+Thumbnail Image,Gambar Thumbnail
+Social Title,Judul Sosial
+Social Description,Deskripsi Sosial
+SEO information updated successfully!,Informasi SEO berhasil diperbarui!
+Add New Screen,Tambah Layar Baru
+Splash screen updated successfully!,Layar pembuka berhasil diperbarui!
+URL settings updated successfully!,Pengaturan URL berhasil diperbarui!
+Download,Unduh
+Selectable,Bisa Dipilih
+Select Method,Pilih Metode
+Email Send Method,Metode Pengiriman Email
+Host,Host
+Port,Port
+Encryption,Enkripsi
+Information updated successfully!,Informasi berhasil diperbarui!
+Sub Heading,Sub Judul
+Heading,Judul
+Section updated successfully!,Bagian berhasil diperbarui!
+Item,Item
+Edit Item,Edit Item
+Office Hours,Jam Kantor
+Edit Donetion,Edit Donasi
+Footer Description,Deskripsi Footer
+Newsletter Description,Deskripsi Buletin
+App Description,Deskripsi Aplikasi
+Add Social Link,Tambah Tautan Sosial
+Add Floting,Tambah Mengambang
+Edit Header Floting,Edit Header Mengambang
+Add Slider,Tambah Slider
+Edit Header Slider,Edit Slider Header
+Button Name,Nama Tombol
+Button Link,Tautan Tombol
+Video Link,Tautan Video
+Edit Service,Edit Layanan
+Add testimonial,Tambah Testimoni
+Edit Testimonial Item,Edit Item Testimoni
+The code field is required.,Kolom kode wajib diisi.
+Extension has been updated successfully,Ekstensi berhasil diperbarui
+Disabled,Dinonaktifkan
+Payment gateway added successfully!,Gerbang Pembayaran berhasil ditambahkan!
+Manual Add Money Edit,Edit Tambah Uang Manual
+Add Link,Tambah Tautan
+Slug,Slug
+Content,Konten
+Edit Useful Link,Edit Tautan Berguna
+Useful link deleted successfully!,Tautan berguna berhasil dihapus!
+Useful link status updated successfully!,Status tautan berguna berhasil diperbarui!
+Subscribe Time,Waktu Berlangganan
+ID,ID
+Browser Push Notification Configuration,Konfigurasi Notifikasi Dorong di Browser
+Instance ID,ID Instansi
+Primary key,Kunci Utama
+Broadcasting/ Internal Notification Configuration,Konfigurasi Notifikasi Penyiaran/Internal
+APP ID,ID Aplikasi
+Secret key,Kunci Rahasia
+Cluster,Kluster
+Notification Body,Isi Notifikasi
+Latest Notifications,Notifikasi Terbaru
+Body,Isi
+Page Name,Nama Halaman
+Default Template,Template Default
+Email Body,Isi Email
+Server Information,Informasi Server
+Cache Clear Successfully!,Cache Berhasil Dihapus!
+Cookie information updated successfully!,Informasi Cookie berhasil diperbarui!
+Push notification configuration updated successfully!,Konfigurasi notifikasi dorong berhasil diperbarui!
+Broadcast configuration updated successfully!,Konfigurasi penyiaran berhasil diperbarui!
+Useful link updated successfully!,Tautan berguna berhasil diperbarui!
+Section item added successfully!,Item bagian berhasil ditambahkan!
+Section item delete successfully!,Item bagian berhasil dihapus!
+Onboard Screen Added Successfully!,Layar Panduan Berhasil Ditambahkan!
+Onboard screen status updated successfully!.,Status layar panduan berhasil diperbarui!
+Onboard screen information updated successfully!,Informasi layar panduan berhasil diperbarui!
+Screen deleted successfully!,Layar berhasil dihapus!
+Admin information updated successfully!,Informasi admin berhasil diperbarui!
+New admin created successfully!,Admin baru berhasil dibuat!
+Admin status updated successfully!,Status admin berhasil diperbarui!
+Admin role created successfully!,Peran admin berhasil dibuat!
+Admin role updated successfully!,Peran admin berhasil diperbarui!
+Admin role deleted successfully!,Peran admin berhasil dihapus!
+Permission created successfully!,Izin berhasil dibuat!
+Permission updated successfully!,Izin berhasil diperbarui!
+Permission deleted successfully!,Izin berhasil dihapus!
+Permission assign successfully!,Izin berhasil ditetapkan!
+Admin deleted successfully!,Admin berhasil dihapus!
+Mail successfully sended,Email berhasil dikirim
+Basic settings updated successfully!,Pengaturan dasar berhasil diperbarui!
+FIAT,FIAT
+CRYPTO,KRIPTO
+Successfully updated the information.,Informasi berhasil diperbarui.
+Language updated successfully!,Bahasa berhasil diperbarui!
+UST,UST
+Login Successfully,Login Berhasil
+Please check email and verify your account,Silakan cek email dan verifikasi akun kamu
+Registration successful,Pendaftaran berhasil
+The credentials does not match,Kredensial tidak cocok
+Account Has been Suspended,Akun telah ditangguhkan
+Verification code send success,Kode verifikasi berhasil dikirim
+Verification code does not match,Kode verifikasi tidak cocok
+Logout Successful,Logout Berhasil
+Verification otp code sended to your email address.,Kode OTP verifikasi dikirim ke email kamu
+Verification OTP invalid,OTP verifikasi tidak valid
+OTP verification successful,Verifikasi OTP berhasil
+Oops password does not match.,"Oops, kata sandi tidak cocok."
+Invalid Request. Please try again,"Permintaan tidak valid. Coba lagi, ya"
+Extension has been udpate successfully,Ekstensi berhasil diperbarui
+Language switch successfully!,Berhasil mengganti bahasa!
+Top Up Updated Successfully,Isi Saldo Berhasil Diperbarui
+Select Category,Pilih Kategori
+Blog Edit,Edit Blog
+Blog item updated successfully!,Item blog berhasil diperbarui!
+FAQ Section,Bagian FAQ
+Add FAQ,Tambah FAQ
+Edit FAQ,Edit FAQ
+Blog Section,Bagian Blog
+Setup Blog Category,Atur Kategori Blog
+Recharge Section,Bagian Isi Ulang
+Header Section,Bagian Header
+Header Floting Section,Bagian Header Mengambang
+Services Section,Bagian Layanan
+Donation Section,Bagian Donasi
+Why Choose Section,Bagian Kenapa Memilih
+Solutions Section,Bagian Solusi
+Best Item Section,Bagian Item Terbaik
+Latest Item Section,Bagian Item Terbaru
+Edit Social Link,Edit Tautan Sosial
+Language Information,Informasi Bahasa
+Language Keywords of English,Kata Kunci Bahasa Inggris
+Language,Bahasa
