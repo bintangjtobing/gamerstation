@@ -40,7 +40,7 @@ $useful_link = App\Models\Admin\UsefulLink::get();
                 </div>
                 <div class="col-xxl-2 col-xl-2 col-lg-2 col-md-6 col-sm-6 mb-30">
                     <div class="footer-widget">
-                        {{-- <h4 class="widget-title">{{__('Useful Links')}}</h4>
+                        <h4 class="widget-title">{{__('Useful Links')}}</h4>
                         <ul class="footer-list">
                             @if (url('link/'))
                             @foreach ($useful_link as $item)
@@ -49,12 +49,12 @@ $useful_link = App\Models\Admin\UsefulLink::get();
                             </li>
                             @endforeach
                             @endif
-                        </ul> --}}
+                        </ul>
                     </div>
                 </div>
-                {{-- <div class="col-xxl-2 col-xl-2 col-lg-2 col-md-6 col-sm-6 mb-30">
+                <div class="col-xxl-2 col-xl-2 col-lg-2 col-md-6 col-sm-6 mb-30">
                     <div class="footer-widget">
-                        <h4 class="widget-title">{{__('Download App')}}</h4>
+                        {{-- <h4 class="widget-title">{{__('Download App')}}</h4>
                         <p>{{ @$footer->value->language->$lang->app_description }}</p>
                         <ul class="footer-list two">
                             <li><a href="{{ $app_setting->android_url }}" class="app-img"><img
@@ -63,9 +63,9 @@ $useful_link = App\Models\Admin\UsefulLink::get();
                             <li><a href="{{ $app_setting->iso_url }}" class="app-img"><img
                                         src="{{ asset('public/frontend') }}/images/app/app_store.png" alt="app"></a>
                             </li>
-                        </ul>
+                        </ul> --}}
                     </div>
-                </div> --}}
+                </div>
                 <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-6 mb-30">
                     <div class="footer-widget">
                         <h4 class="widget-title">{{__('Newsletter')}}</h4>
