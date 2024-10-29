@@ -1,16 +1,16 @@
 @php
-    //get selected language
-    $lang = selectedLang();
-    // Footer section
-    $footer_slug = Illuminate\Support\Str::slug(App\Constants\SiteSectionConst::FOOTER_SECTION);
-    $footer = App\Models\Admin\SiteSections::getData($footer_slug)->first();
-    //contact section
-    $contact_slug = Illuminate\Support\Str::slug(App\Constants\SiteSectionConst::CONTACT_SECTION);
-    $contact = App\Models\Admin\SiteSections::getData($contact_slug)->first();
+//get selected language
+$lang = selectedLang();
+// Footer section
+$footer_slug = Illuminate\Support\Str::slug(App\Constants\SiteSectionConst::FOOTER_SECTION);
+$footer = App\Models\Admin\SiteSections::getData($footer_slug)->first();
+//contact section
+$contact_slug = Illuminate\Support\Str::slug(App\Constants\SiteSectionConst::CONTACT_SECTION);
+$contact = App\Models\Admin\SiteSections::getData($contact_slug)->first();
 
-    // app setting
-    $app_setting = App\Models\Admin\AppSettings::first();
-    $useful_link = App\Models\Admin\UsefulLink::get();
+// app setting
+$app_setting = App\Models\Admin\AppSettings::first();
+$useful_link = App\Models\Admin\UsefulLink::get();
 
 @endphp
 
@@ -29,8 +29,8 @@
                         </div>
                         <div class="footer-content-bottom">
                             <ul class="footer-list logo">
-                                <li><a href="javascript:void()"><i class="las la-phone-volume me-1"></i>
-                                        {{ @$contact->value->language->$lang->phone }}</a></li>
+                                {{-- <li><a href="javascript:void()"><i class="las la-phone-volume me-1"></i>
+                                        {{ @$contact->value->language->$lang->phone }}</a></li> --}}
                                 <li><a href="javascript:void()"><i class="las la-envelope me-1"></i>
                                         {{ @$contact->value->language->$lang->email }}</a>
                                 </li>
@@ -43,29 +43,29 @@
                         <h4 class="widget-title">{{__('Useful Links')}}</h4>
                         <ul class="footer-list">
                             @if (url('link/'))
-                                @foreach ($useful_link as $item)
-                                    <li><a
-                                            href="{{ url('link/' . $item->slug) }}">{{ @$item->title->language->$lang->title }}</a>
-                                    </li>
-                                @endforeach
+                            @foreach ($useful_link as $item)
+                            <li><a href="{{ url('link/' . $item->slug) }}">{{ @$item->title->language->$lang->title
+                                    }}</a>
+                            </li>
+                            @endforeach
                             @endif
                         </ul>
                     </div>
                 </div>
-                <div class="col-xxl-2 col-xl-2 col-lg-2 col-md-6 col-sm-6 mb-30">
+                {{-- <div class="col-xxl-2 col-xl-2 col-lg-2 col-md-6 col-sm-6 mb-30">
                     <div class="footer-widget">
                         <h4 class="widget-title">{{__('Download App')}}</h4>
                         <p>{{ @$footer->value->language->$lang->app_description }}</p>
                         <ul class="footer-list two">
                             <li><a href="{{ $app_setting->android_url }}" class="app-img"><img
-                                        src="{{ asset('public/frontend') }}/images/app/play_store.png"
-                                        alt="app"></a></li>
+                                        src="{{ asset('public/frontend') }}/images/app/play_store.png" alt="app"></a>
+                            </li>
                             <li><a href="{{ $app_setting->iso_url }}" class="app-img"><img
-                                        src="{{ asset('public/frontend') }}/images/app/app_store.png"
-                                        alt="app"></a></li>
+                                        src="{{ asset('public/frontend') }}/images/app/app_store.png" alt="app"></a>
+                            </li>
                         </ul>
                     </div>
-                </div>
+                </div> --}}
                 <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-6 mb-30">
                     <div class="footer-widget">
                         <h4 class="widget-title">{{__('Newsletter')}}</h4>
@@ -95,17 +95,17 @@
                     <p>©{{__(' Created by')}} <span class="text--base">{{ $basic_settings->site_name }}</span>
                         {{ date('Y') }}.</p>
                     @if ($footer->value->items)
-                        <ul class="footer-social-list">
-                            @foreach ($footer->value->items as $item)
-                                <li>
-                                    <a href="{{ @$item->language->$lang->item_link }}"><i
-                                            class="{{ @$item->language->$lang->item_social_icon }}"></i>
-                                        {{ @$item->language->$lang->item_title }}</a>
-                                </li>
-                            @endforeach
+                    <ul class="footer-social-list">
+                        @foreach ($footer->value->items as $item)
+                        <li>
+                            <a href="{{ @$item->language->$lang->item_link }}"><i
+                                    class="{{ @$item->language->$lang->item_social_icon }}"></i>
+                                {{ @$item->language->$lang->item_title }}</a>
+                        </li>
+                        @endforeach
 
 
-                        </ul>
+                    </ul>
                     @endif
                 </div>
             </div>
